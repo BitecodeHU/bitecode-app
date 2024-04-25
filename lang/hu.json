@@ -273,5 +273,7 @@
     "Users": "Felhasználók",
     "Managing users or create new users.": "Felhasználók kezelése vagy új felhasználók hozzáadása.",
     "Check for updates.": "Frissítések keresése.",
-    "Update app.": "Alkalmazás frissítse."
+    "Update app.": "Alkalmazás frissítse.",
+    "You are using the latest version.": "A legfrisebb verziót használod.",
+    "There is a newer version available.": "Elérhető egy újabb verzió."
 }
